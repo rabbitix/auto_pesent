@@ -7,7 +7,7 @@ __pycache__/
 *.so
 .idea/
 .vscode/
-
+!requirements.txt
 # Distribution / packaging
 .Python
 build/
